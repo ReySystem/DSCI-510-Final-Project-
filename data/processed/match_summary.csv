@@ -1,0 +1,49 @@
+,Time,Stadium,City,Team 1,Team 2,Won_Toss,Decision_Toss,Team 1 Runs Scored,Team 1 Wickets Lost,Team 1 Overs,Team 2 Runs Scored,Team 2 Wickets Lost,Team 2 Overs,Team 1 PP-1 Runs Scored,Team 1 PP-1 Wickets Lost,Team 1 PP-2 Runs Scored,Team 1 PP-2 Wickets Lost,Team 1 PP-3 Runs Scored,Team 1 PP-3 Wickets Lost,Team 2 PP-1 Runs Scored,Team 2 PP-1 Wickets Lost,Team 2 PP-2 Runs Scored,Team 2 PP-2 Wickets Lost,Team 2 PP-3 Runs Scored,Team 2 PP-3 Wickets Lost,MOM,Winner
+0,DN,Narendra Modi Stadium,Ahmedabad,England,New Zealand,New Zealand,field,282,9,50.0,283,1,36.2,51,1,173,5,58,3,81,1,202,0,0,0,Rachin Ravindra,New Zealand
+1,DN,Rajiv Gandhi International Stadium,Hyderabad,Pakistan,Netherlands,Netherlands,field,286,10,49.0,205,10,41.0,43,3,184,3,59,4,47,1,155,8,5,1,Saud Shakeel,Pakistan
+2,D,Himachal Pradesh Cricket Association Stadium,Dharamsala,Afghanistan,Bangladesh,Bangladesh,field,156,10,37.2,158,4,34.4,50,1,106,9,0,0,44,2,114,2,0,0,Mehidy Hasan Miraz,Bangladesh
+3,DN,Arun Jaitley Stadium,Delhi,South Africa,Sri Lanka,Sri Lanka,field,428,5,50.0,326,10,44.5,48,1,243,2,137,2,94,2,197,6,35,2,Aiden Markram,South Africa
+4,DN,MA Chidambaram Stadium,Chennai,Australia,India,Australia,bat,199,10,49.3,201,4,41.2,43,1,113,6,43,3,27,3,155,1,19,0,KL Rahul,India
+5,DN,Rajiv Gandhi International Stadium,Hyderabad,New Zealand,Netherlands,Netherlands,field,322,7,50.0,223,10,46.3,63,0,175,3,84,4,35,1,161,6,27,3,Mitchell Santner,New Zealand
+6,D,Himachal Pradesh Cricket Association Stadium,Dharamsala,England,Bangladesh,Bangladesh,field,364,9,50.0,227,10,48.2,61,0,237,3,66,6,57,4,134,3,36,3,Dawid Malan,England
+7,DN,Rajiv Gandhi International Stadium,Hyderabad,Sri Lanka,Pakistan,Sri Lanka,bat,344,9,50.0,345,4,48.2,58,1,225,3,61,5,48,2,223,1,74,1,Mohammad Rizwan,Pakistan
+8,DN,Arun Jaitley Stadium,Delhi,Afghanistan,India,Afghanistan,bat,272,8,50.0,273,2,35.0,48,1,163,3,61,4,94,0,179,2,0,0,Rohit Sharma,India
+9,DN,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow,South Africa,Australia,Australia,field,311,7,50.0,177,10,40.5,53,0,179,3,79,4,50,3,124,5,3,2,Quinton de Kock,South Africa
+10,DN,MA Chidambaram Stadium,Chennai,Bangladesh,New Zealand,New Zealand,field,245,9,50.0,248,2,42.5,46,2,143,5,56,2,37,1,184,1,27,0,Lockie Ferguson,New Zealand
+11,DN,Narendra Modi Stadium,Ahmedabad,Pakistan,India,India,field,191,10,42.5,192,3,30.3,49,1,138,7,4,2,79,2,113,1,0,0,Jasprit Bumrah,India
+12,DN,Arun Jaitley Stadium,Delhi,Afghanistan,England,England,field,284,10,49.5,215,10,40.3,79,0,137,6,68,4,52,2,161,7,2,1,Mujeeb Ur Rahman,Afghanistan
+13,DN,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow,Sri Lanka,Australia,Sri Lanka,bat,209,10,43.3,215,5,35.2,51,0,148,8,10,2,64,2,151,3,0,0,Adam Zampa,Australia
+14,DN,Himachal Pradesh Cricket Association Stadium,Dharamsala,Netherlands,South Africa,South Africa,field,245,8,43.0,207,10,42.5,28,2,128,5,89,1,39,1,127,7,41,2,Scott Edwards,Netherlands
+15,DN,MA Chidambaram Stadium,Chennai,New Zealand,Afghanistan,Afghanistan,field,288,6,50.0,139,10,34.4,43,1,142,3,103,2,28,2,111,8,0,0,Glenn Phillips,New Zealand
+16,DN,Maharashtra Cricket Association Stadium,Pune,Bangladesh,India,Bangladesh,bat,256,8,50.0,261,3,41.3,63,0,126,5,67,3,63,0,186,3,12,0,Virat Kohli,India
+17,DN,M.Chinnaswamy Stadium,Bengaluru,Australia,Pakistan,Pakistan,field,367,9,50.0,305,10,45.3,82,0,215,3,70,6,59,0,213,5,33,5,David Warner,Australia
+18,D,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow,Netherlands,Sri Lanka,Netherlands,bat,262,10,49.4,263,5,48.2,48,2,127,4,87,4,56,2,167,2,40,1,Sadeera Samarawickrama,Sri Lanka
+19,DN,Wankhede Stadium,Mumbai,South Africa,England,England,field,399,7,50.0,170,10,22.0,59,1,197,4,143,2,67,4,103,5,0,0,Heinrich Klaasen,South Africa
+20,DN,Himachal Pradesh Cricket Association Stadium,Dharamsala,New Zealand,India,India,field,273,10,50.0,274,6,48.0,34,2,185,2,54,6,63,0,162,5,49,1,Mohammed Shami,India
+21,DN,MA Chidambaram Stadium,Chennai,Pakistan,Afghanistan,Pakistan,bat,282,7,50.0,286,2,49.0,56,0,135,4,91,3,60,0,161,2,65,0,Ibrahim Zadran,Afghanistan
+22,DN,Wankhede Stadium,Mumbai,South Africa,Bangladesh,South Africa,bat,382,5,50.0,233,10,46.4,44,2,194,1,144,2,35,3,149,5,49,2,Quinton de Kock,South Africa
+23,DN,Arun Jaitley Stadium,Delhi,Australia,Netherlands,Australia,bat,399,8,50.0,90,10,21.0,66,1,202,4,131,3,48,3,42,7,0,0,Glenn Maxwell,Australia
+24,DN,M.Chinnaswamy Stadium,Bengaluru,England,Sri Lanka,England,bat,156,10,33.2,160,2,25.4,59,2,97,8,0,0,56,2,104,0,0,0,Lahiru Kumara,Sri Lanka
+25,DN,MA Chidambaram Stadium,Chennai,Pakistan,South Africa,Pakistan,bat,270,10,46.4,271,9,47.2,58,2,167,4,45,4,67,2,182,4,22,3,Tabraiz Shamsi,South Africa
+26,D,Himachal Pradesh Cricket Association Stadium,Dharamsala,Australia,New Zealand,New Zealand,field,388,10,49.2,383,9,50.0,118,0,174,5,96,5,73,2,219,3,91,4,Travis Head,Australia
+27,DN,Eden Gardens,Kolkata,Netherlands,Bangladesh,Netherlands,bat,229,10,50.0,142,10,42.2,47,2,108,3,74,5,39,2,101,6,2,2,Paul van Meekeren,Netherlands
+28,DN,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow,India,England,England,field,229,9,50.0,129,10,34.5,35,2,145,3,49,4,40,4,89,6,0,0,Rohit Sharma,India
+29,DN,Maharashtra Cricket Association Stadium,Pune,Sri Lanka,Afghanistan,Afghanistan,field,241,10,49.3,242,3,45.2,41,1,144,6,56,3,50,1,151,2,41,0,Fazalhaq Farooqi,Afghanistan
+30,DN,Eden Gardens,Kolkata,Bangladesh,Pakistan,Bangladesh,bat,204,10,45.1,205,3,32.3,37,3,151,4,16,3,52,0,153,3,0,0,Fakhar Zaman,Pakistan
+31,DN,Maharashtra Cricket Association Stadium,Pune,South Africa,New Zealand,New Zealand,field,357,4,50.0,167,10,35.3,43,1,195,1,119,2,51,2,116,8,0,0,Rassie van der Dussen,South Africa
+32,DN,Wankhede Stadium,Mumbai,India,Sri Lanka,Sri Lanka,field,357,8,50.0,55,10,19.4,60,1,204,3,93,4,14,6,41,4,0,0,Mohammed Shami,India
+33,DN,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow,Netherlands,Afghanistan,Netherlands,bat,179,10,46.3,181,3,31.3,66,1,101,7,12,2,55,1,126,2,0,0,Mohammad Nabi,Afghanistan
+34,D,M.Chinnaswamy Stadium,Bengaluru,New Zealand,Pakistan,Pakistan,field,401,6,50.0,200,1,25.3,66,0,241,3,94,3,75,1,125,0,0,0,Fakhar Zaman,Pakistan
+35,DN,Narendra Modi Stadium,Ahmedabad,Australia,England,England,field,286,10,49.3,253,10,48.1,48,2,172,3,66,5,38,2,149,5,66,3,Adam Zampa,Australia
+36,DN,Eden Gardens,Kolkata,India,South Africa,India,bat,326,5,50.0,83,10,27.1,91,1,148,2,87,2,35,3,48,7,0,0,Virat Kohli,India
+37,DN,Arun Jaitley Stadium,Delhi,Sri Lanka,Bangladesh,Bangladesh,field,279,10,49.3,282,7,41.1,52,1,171,4,56,4,57,2,211,4,14,1,Shakib Al Hasan,Bangladesh
+38,DN,Wankhede Stadium,Mumbai,Afghanistan,Australia,Afghanistan,bat,291,5,50.0,293,7,46.5,46,1,149,2,96,2,52,4,180,3,61,0,Glenn Maxwell,Australia
+39,DN,Maharashtra Cricket Association Stadium,Pune,England,Netherlands,England,bat,339,9,50.0,179,10,37.2,70,1,145,5,124,3,23,2,156,8,0,0,Ben Stokes,England
+40,DN,M.Chinnaswamy Stadium,Bengaluru,Sri Lanka,New Zealand,New Zealand,field,171,10,46.4,172,5,23.2,74,5,81,4,16,1,73,0,99,5,0,0,Trent Boult,New Zealand
+41,DN,Narendra Modi Stadium,Ahmedabad,Afghanistan,South Africa,Afghanistan,bat,244,10,50.0,247,5,47.3,41,2,132,5,71,3,57,0,135,5,55,0,Rassie van der Dussen,South Africa
+42,D,Maharashtra Cricket Association Stadium,Pune,Bangladesh,Australia,Australia,field,306,8,50.0,307,2,44.4,62,0,177,4,67,4,58,1,206,1,43,0,Mitchell Marsh,Australia
+43,DN,Eden Gardens,Kolkata,England,Pakistan,England,bat,337,9,50.0,244,10,43.3,72,0,168,2,97,7,43,2,166,7,35,1,David Willey,England
+44,DN,M.Chinnaswamy Stadium,Bengaluru,India,Netherlands,India,bat,410,4,50.0,250,10,47.5,91,0,193,3,126,1,62,1,128,5,60,4,Shreyas Iyer,India
+45,DN,Wankhede Stadium,Mumbai,India,New Zealand,India,bat,397,4,50.0,327,10,48.5,84,1,203,0,110,3,46,2,220,2,61,6,Mohammed Shami,India
+46,DN,Eden Gardens,Kolkata,South Africa,Australia,South Africa,bat,212,10,49.4,215,7,47.2,18,2,138,4,56,4,74,2,119,5,22,0,Travis Head,Australia
+47,DN,Narendra Modi Stadium,Ahmedabad,India,Australia,Australia,field,240,10,50.0,241,4,43.0,80,2,117,3,43,5,60,3,165,0,18,1,Travis Head,Australia
